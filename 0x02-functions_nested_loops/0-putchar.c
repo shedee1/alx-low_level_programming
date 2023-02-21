@@ -1,9 +1,10 @@
 #include "main.h"
+
 /**
- * main - print putchar
+ * main - print _putchar
  * This program is writen by shedee
  * Return:0
- */
+*/
 
 int main(void)
 {
